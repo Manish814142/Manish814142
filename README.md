@@ -19,7 +19,7 @@ I care about the parts of a system that decide whether it holds up in production
 ## Results at work
 
 <div align="center">
-<img src="assets/impact.svg" width="100%" alt="87.5% lower dashboard latency, 7x faster data ingestion, 25% shorter invoice cycles, 15% lower API gateway cost" />
+<img src="assets/impact.svg" width="600" alt="87.5% lower dashboard latency, 7x faster data ingestion, 25% shorter invoice cycles, 15% lower API gateway cost" />
 </div>
 
 <br />
@@ -28,9 +28,13 @@ Plus an event-driven notification engine on a decoupled RabbitMQ broker, so comp
 
 ## Tech
 
-<div align="center">
-<img src="assets/skills.svg" width="100%" alt="Languages: JavaScript, TypeScript, Python, Java. Backend: Node.js, Express, REST, WebSockets, microservices. Data: MongoDB, Redis, PostgreSQL, MySQL, Cosmos DB. Messaging and infra: RabbitMQ, Kafka, BullMQ, Docker, Jenkins, Azure, AWS, GCP. Frontend: React, Next.js, Angular, Tailwind." />
-</div>
+| | |
+|---|---|
+| **Languages** | `JavaScript` `TypeScript` `Python` `Java` |
+| **Backend** | `Node.js` `Express` `REST APIs` `WebSockets` `Microservices` |
+| **Data** | `MongoDB` `Redis` `PostgreSQL` `MySQL` `Cosmos DB` |
+| **Messaging and infra** | `RabbitMQ` `Kafka` `BullMQ` `Docker` `Jenkins` `Azure` `AWS` `GCP` |
+| **Frontend** | `React` `Next.js` `Angular` `Tailwind` |
 
 ## Featured projects
 
@@ -48,9 +52,7 @@ LinkedIn lets you filter jobs by date, level and location, but not by company si
 
 ## Certifications
 
-<div align="center">
-<img src="assets/certs.svg" alt="Microsoft Certified: AZ-900, DP-900, AI-900, DP-100, DP-420" />
-</div>
+Microsoft Certified, five times: `AZ-900` Azure Fundamentals · `DP-900` Data Fundamentals · `AI-900` AI Fundamentals · `DP-100` Data Scientist Associate · `DP-420` Cosmos DB Developer
 
 <br />
 
