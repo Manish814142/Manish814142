@@ -32,7 +32,13 @@ Plus an event-driven notification engine on a decoupled RabbitMQ broker, so comp
 <img src="assets/skills.svg" width="100%" alt="Languages: JavaScript, TypeScript, Python, Java. Backend: Node.js, Express, REST, WebSockets, microservices. Data: MongoDB, Redis, PostgreSQL, MySQL, Cosmos DB. Messaging and infra: RabbitMQ, Kafka, BullMQ, Docker, Jenkins, Azure, AWS, GCP. Frontend: React, Next.js, Angular, Tailwind." />
 </div>
 
-## Featured project
+## Featured projects
+
+### [RoleSight](https://github.com/Manish814142/rolesight)
+
+A daily job radar. It pulls open roles straight from the public APIs of 224 company boards across a dozen applicant-tracking systems, filters locally, scores the survivors against a resume with Gemini, remembers every job in SQLite and writes a ranked CSV. It never applies on its own. On a full production run it fetched 33,652 jobs in 5 minutes and scored the 317 that passed the filters. Started from [autopilot-jobhunt](https://github.com/tarunlnmiit/autopilot-jobhunt) (MIT) and largely rewritten since.
+
+`Python` · `SQLite` · `Gemini API` · `Greenhouse / Lever / Workday adapters` · `CI`
 
 ### [HeadcountFilter](https://github.com/Manish814142/HeadcountFilter)
 
