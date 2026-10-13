@@ -1,39 +1,55 @@
-# Hi, I'm Manish Singh
+<div align="center">
 
-**Backend-focused Full Stack Engineer** with 3+ years of experience building high-throughput Node.js systems, event-driven microservices and data pipelines. Currently at **AIQoD**, working with Node.js, Express, MongoDB, Redis and GenAI.
+<img src="assets/banner.svg" width="100%" alt="Manish Singh, Backend-focused Full Stack Engineer" />
 
-I like the unglamorous parts of a system that decide whether it holds up: query performance, queues, rate limits, retries and failure handling.
+<br />
 
-## What I've shipped at work
+<p align="center"><a href="https://www.linkedin.com/in/manish814142"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:manish814142@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email me" /></a></p>
 
-- **7x faster data ingestion** with a recursive Node.js engine that automates ZIP extraction for high-volume inbound directories
-- **87.5% lower dashboard latency** (16s to 2s) by reworking MongoDB aggregation pipelines and adding a Redis metadata layer
-- **25% shorter invoice processing cycles** by parallelising post-OCR validation API calls and trimming GenAI token usage
-- **Event-driven notifications** on a decoupled RabbitMQ broker, so compliance alerts no longer depend on the request path
-- **15% lower third-party API gateway costs** with a Redis-backed OTP and rate-limiting layer
+</div>
+
+<br />
+
+## About
+
+Backend-focused engineer with 3+ years of experience building high-throughput Node.js systems, event-driven microservices and data pipelines. I work at **AIQoD**, where I build document-processing and automation services on Node.js, MongoDB, Redis and GenAI.
+
+I care about the parts of a system that decide whether it holds up in production: query performance, queues, rate limits, retries and what happens when something fails.
+
+## Results at work
+
+<div align="center">
+<img src="assets/impact.svg" width="100%" alt="87.5% lower dashboard latency, 7x faster data ingestion, 25% shorter invoice cycles, 15% lower API gateway cost" />
+</div>
+
+<br />
+
+Plus an event-driven notification engine on a decoupled RabbitMQ broker, so compliance alerts no longer depend on the request path.
 
 ## Tech
 
-| | |
-|---|---|
-| **Languages** | JavaScript (ES6+), TypeScript, Python, Java |
-| **Backend** | Node.js, Express.js, REST APIs, WebSockets (Socket.io), microservices |
-| **Data** | MongoDB, Redis, MySQL, PostgreSQL, Cosmos DB |
-| **Messaging and infra** | RabbitMQ, Apache Kafka, BullMQ, Docker, Jenkins, Azure, AWS, GCP |
-| **Frontend** | React, Next.js, Angular, HTML5, CSS3 |
+<div align="center">
+<img src="assets/skills.svg" width="100%" alt="Languages: JavaScript, TypeScript, Python, Java. Backend: Node.js, Express, REST, WebSockets, microservices. Data: MongoDB, Redis, PostgreSQL, MySQL, Cosmos DB. Messaging and infra: RabbitMQ, Kafka, BullMQ, Docker, Jenkins, Azure, AWS, GCP. Frontend: React, Next.js, Angular, Tailwind." />
+</div>
 
 ## Featured project
 
 ### [HeadcountFilter](https://github.com/Manish814142/HeadcountFilter)
-A browser userscript that adds company-size filtering to LinkedIn's job feed, which LinkedIn doesn't offer. It runs fully client-side with no backend, resolves unknown companies anonymously with adaptive back-off on rate limits, and is covered by a 585-case regression suite.
-`JavaScript` `Tampermonkey` `DOM APIs`
+
+LinkedIn lets you filter jobs by date, level and location, but not by company size. This userscript adds that: it classifies companies anonymously, backs off adaptively when rate-limited, and keeps everything client-side with no backend and no data collection.
+
+`JavaScript` · `Tampermonkey` · `DOM APIs` · 585-case regression suite
 
 ## Certifications
 
-Microsoft Certified (5): Azure Fundamentals (AZ-900), Data Fundamentals (DP-900), AI Fundamentals (AI-900), Azure Data Scientist Associate (DP-100), Azure Cosmos DB Developer Specialty (DP-420)
+<div align="center">
+<img src="assets/certs.svg" alt="Microsoft Certified: AZ-900, DP-900, AI-900, DP-100, DP-420" />
+</div>
 
-## Get in touch
+<br />
 
-[LinkedIn](https://www.linkedin.com/in/manish814142) · [Email](mailto:manish814142@gmail.com)
+<div align="center">
 
-I'm open to backend and full-stack roles.
+Open to backend and full-stack roles. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/manish814142) or [email](mailto:manish814142@gmail.com).
+
+</div>
